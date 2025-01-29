@@ -242,7 +242,7 @@
 					{
 						"name": "Gemini",
 						"url": "https://gemini.google.com/app",
-						"icon": "logos:google-gemini"
+						"icon": "ri:gemini-line"
 					}
 				]
 			},
