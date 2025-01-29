@@ -173,14 +173,14 @@
 						"icon": "tabler:letter-s"
 					},
 					{
-						"name": "Cursorful",
-						"url": "https://cursorful.com",
-						"icon": "f7:cursor-rays"
-					},
-					{
 						"name": "Подсчет символов",
 						"url": "https://involta.ru/tools/length-chars",
 						"icon": "mdi:counter"
+					},
+					{
+						"name": "Морфологический разбор",
+						"url": "https://rustxt.ru/morfologicheskij-razbor",
+						"icon": "si:barcode-duotone"
 					},
 					{
 						"name": "Polywork",
