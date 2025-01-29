@@ -156,7 +156,7 @@
 						"icon": "material-symbols-light:home-outline"
 					},
 					{
-						"name": "Витрина|Смарт Сервисы",
+						"name": "Витрина/Смарт",
 						"url": "https://crm-new-viss.domyland.dev",
 						"icon": "material-symbols-light:home-outline"
 					},
@@ -279,24 +279,24 @@
 				]
 			},
 			{
-				"title": "Tech",
+				"title": "Work",
 				"color": "yellow",
 				"align": "left",
 				"links": [
 					{
-						"name": "TechCrunch",
-						"url": "https://techcrunch.com/",
-						"icon": "game-icons:techno-heart"
+						"name": "Kaiten",
+						"url": "https://domyland.kaiten.ru/dashboard/timesheets",
+						"icon": "mi:board"
 					},
 					{
-						"name": "Verge",
-						"url": "https://www.theverge.com/",
-						"icon": "arcticons:verge"
+						"name": "Miro",
+						"url": "https://miro.com/app/board/uXjVPvBoolI=/",
+						"icon": "logos:miro-icon"
 					},
 					{
-						"name": "It's Foss",
-						"url": "https://itsfoss.com/",
-						"icon": "ri:mastodon-fill"
+						"name": "Tilda",
+						"url": "https://tilda.ru/projects/",
+						"icon": "simple-icons:tildapublishing"
 					},
 					{
 						"name": "9To5 Linux",
