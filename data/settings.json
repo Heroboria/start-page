@@ -178,7 +178,7 @@
 				]
 			},
 			{
-				"title": "Документация",
+				"title": "Docs",
 				"color": "magenta",
 				"align": "left",
 				"links": [
@@ -215,7 +215,7 @@
 				]
 			},
 			{
-				"title": "Сервисы",
+				"title": "Services",
 				"color": "cyan",
 				"align": "left",
 				"links": [
@@ -233,11 +233,21 @@
 						"name": "Морфол. разбор",
 						"url": "https://rustxt.ru/morfologicheskij-razbor",
 						"icon": "material-symbols:article-shortcut-outline"
+					},
+					{
+						"name": "SideKick",
+						"url": "https://sidekick.tobit.com/",
+						"icon": "tabler:ai"
+					},
+					{
+						"name": "Gemini",
+						"url": "https://gemini.google.com/app",
+						"icon": "logos:google-gemini"
 					}
 				]
 			},
 			{
-				"title": "Макеты",
+				"title": "Design",
 				"color": "red",
 				"align": "left",
 				"links": [
