@@ -77,7 +77,7 @@
 			{
 				"alias": "d",
 				"name": "DuckDuckGo Search",
-				"url": "https://duckduckgo.com/?q={}"
+				"url": "https://help.domyland.ru/?search={}"
 			},
 			{
 				"alias": "b",
