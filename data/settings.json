@@ -22,7 +22,7 @@
 		"blur": false
 	},
 	"terminal": {
-		"fixedHeight": true,
+		"fixedHeight": false,
 		"windowGlow": true,
 		"windowGlowColor": "#291f3325",
 		"textGlow": false,
@@ -210,7 +210,7 @@
 					{
 						"name": "Swagger",
 						"url": "https://sud-api.domyland.ru/swagger#/",
-						"icon": "simple-icons:swagger"
+						"icon": "devicon:swagger"
 					}
 				]
 			},
@@ -233,11 +233,6 @@
 						"name": "Морфол. разбор",
 						"url": "https://rustxt.ru/morfologicheskij-razbor",
 						"icon": "si:barcode-duotone"
-					},
-					{
-						"name": "Polywork",
-						"url": "https://polywork.com",
-						"icon": "simple-icons:polywork"
 					}
 				]
 			},
@@ -297,11 +292,6 @@
 						"name": "Tilda",
 						"url": "https://tilda.ru/projects/",
 						"icon": "simple-icons:tildapublishing"
-					},
-					{
-						"name": "9To5 Linux",
-						"url": "https://9to5linux.com/",
-						"icon": "uil:linux"
 					}
 				]
 			}
