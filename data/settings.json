@@ -70,7 +70,7 @@
 		"shortcutRegex": "([A-Za-z0-9]+) (.*)",
 		"shortcuts": [
 			{
-				"alias": "help",
+				"alias": "h",
 				"name": "Domyland Search",
 				"url": "https://help.domyland.ru/?search={}"
 			},
