@@ -71,13 +71,13 @@
 		"shortcuts": [
 			{
 				"alias": "h",
-				"name": "Domyland Search",
+				"name": "Поиск в Domyland Help",
 				"url": "https://help.domyland.ru/?search={}"
 			},
 			{
-				"alias": "d",
-				"name": "DuckDuckGo Search",
-				"url": "https://help.domyland.ru/?search={}"
+				"alias": "ok",
+				"name": "Поиск в Okdesk",
+				"url": "https://domyland.okdesk.ru/search?search={}"
 			},
 			{
 				"alias": "b",
@@ -163,14 +163,14 @@
 				]
 			},
 			{
-				"title": "Social",
+				"title": "Сервисы",
 				"color": "cyan",
 				"align": "left",
 				"links": [
 					{
-						"name": "Twitter",
-						"url": "https://twitter.com",
-						"icon": "mdi:twitter"
+						"name": "Screely",
+						"url": "https://screely.com/",
+						"icon": "tabler:letter-s"
 					},
 					{
 						"name": "Mastodon",
