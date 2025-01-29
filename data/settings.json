@@ -227,17 +227,17 @@
 					{
 						"name": "Подсчет символов",
 						"url": "https://involta.ru/tools/length-chars",
-						"icon": "mdi:counter"
+						"icon": "lucide:letter-text"
 					},
 					{
 						"name": "Морфол. разбор",
 						"url": "https://rustxt.ru/morfologicheskij-razbor",
-						"icon": "si:barcode-duotone"
+						"icon": "material-symbols:article-shortcut-outline"
 					}
 				]
 			},
 			{
-				"title": "Мокапы",
+				"title": "Макеты",
 				"color": "red",
 				"align": "left",
 				"links": [
@@ -292,6 +292,16 @@
 						"name": "Tilda",
 						"url": "https://tilda.ru/projects/",
 						"icon": "simple-icons:tildapublishing"
+					},
+					{
+						"name": "Okdesk",
+						"url": "https://domyland.okdesk.ru/issues",
+						"icon": "flat-color-icons:ok"
+					},
+					{
+						"name": "Power BI",
+						"url": "https://app.powerbi.com/groups/me/apps/26e0312d-8ef7-413a-accb-12935f9d2aa9/reports/a6552037-1305-4275-a58d-4e761f3dbbd6/b73dddccf98f0ce7e476?ctid=ab6f3ba4-7d8e-4053-a6e5-878989dc3346&experience=power-bi&clientSideAuth=0",
+						"icon": "logos:microsoft-power-bi"
 					}
 				]
 			}
