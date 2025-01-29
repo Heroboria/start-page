@@ -131,12 +131,49 @@
 					{
 						"name": "Club",
 						"url": "https://partner.domyland.ru/dashboard",
-						"icon": "arcticons:rakuten-pointclub"
+						"icon": "tabler:letter-c"
 					},
 					{
 						"name": "Web Lk",
 						"url": "https://lk.domyland.ru/services",
 						"icon": "mingcute:home-1-line"
+					}
+				]
+			},
+			{
+				"title": "Test",
+				"color": "blue",
+				"align": "left",
+				"links": [
+					{
+						"name": "ЖКХ",
+						"url": "https://crm-new-gkh.domyland.dev/exploitation/dashboard/",
+						"icon": "material-symbols-light:home-outline"
+					},
+					{
+						"name": "Медиа Сервисы",
+						"url": "https://crm-new-media.domyland.dev",
+						"icon": "material-symbols-light:home-outline"
+					},
+					{
+						"name": "Витрина и Смарт Сервисы",
+						"url": "https://crm-new-viss.domyland.dev",
+						"icon": "material-symbols-light:home-outline"
+					},
+					{
+						"name": "Стратегия",
+						"url": "https://crm-new-strat.domyland.dev/exploitation/dashboard/",
+						"icon": "material-symbols-light:home-outline"
+					},
+					{
+						"name": "Самолет",
+						"url": "https://crm-new-smlt.domyland.dev/",
+						"icon": "material-symbols-light:home-outline"
+					},
+					{
+						"name": "Премиум",
+						"url": "https://crm-new-premium.domyland.dev/",
+						"icon": "material-symbols-light:home-outline"
 					}
 				]
 			},
@@ -238,33 +275,6 @@
 						"name": "CRM 4.0",
 						"url": "https://www.figma.com/design/QmwfgrCG6rqRd8YWMi75wD/DS---Web-UI-Kit?node-id=6287-244387&p=f&t=3B2jHOvwMK9wokmB-0",
 						"icon": "solar:figma-line-duotone"
-					}
-				]
-			},
-			{
-				"title": "Science",
-				"color": "blue",
-				"align": "left",
-				"links": [
-					{
-						"name": "PopSci",
-						"url": "https://popsci.com/",
-						"icon": "material-symbols:science"
-					},
-					{
-						"name": "Space",
-						"url": "fa6-solid:user-astronaut",
-						"icon": "mdi:reddit"
-					},
-					{
-						"name": "NASA",
-						"url": "https://blogs.nasa.gov/",
-						"icon": "simple-icons:nasa"
-					},
-					{
-						"name": "ESA",
-						"url": "https://blogs.esa.int/",
-						"icon": "mdi:black-mesa"
 					}
 				]
 			},
