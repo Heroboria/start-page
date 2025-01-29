@@ -109,29 +109,34 @@
 	"sections": {
 		"list": [
 			{
-				"title": "Стенды",
+				"title": "Prod",
 				"color": "green",
 				"align": "left",
 				"links": [
 					{
-						"name": "Portfolio",
-						"url": "https://cancellek.com",
-						"icon": "mdi:web"
+						"name": "New CRM",
+						"url": "https://test2.domyland.ru/exploitation/dashboard",
+						"icon": "material-symbols-light:home-outline"
 					},
 					{
-						"name": "Keybase",
-						"url": "https://keybase.io/",
-						"icon": "fa-brands:keybase"
+						"name": "Old CRM",
+						"url": "https://crm-depricated.domyland.ru/exploitation/dashboard",
+						"icon": "material-symbols-light:home-outline"
 					},
 					{
-						"name": "GPT",
-						"url": "https://chat.openai.com/",
-						"icon": "simple-icons:openai"
+						"name": "HQ",
+						"url": "https://hq.domyland.ru/hq/dashboard",
+						"icon": "mdi:hq"
 					},
 					{
-						"name": "OCI",
-						"url": "https://www.oracle.com/cloud/",
-						"icon": "simple-icons:oracle"
+						"name": "Club",
+						"url": "https://partner.domyland.ru/dashboard",
+						"icon": "arcticons:rakuten-pointclub"
+					},
+					{
+						"name": "Web Lk",
+						"url": "https://lk.domyland.ru/services",
+						"icon": "mingcute:home-1-line"
 					}
 				]
 			},
@@ -159,6 +164,16 @@
 						"name": "Club",
 						"url": "https://help.domyland.club",
 						"icon": "tabler:letter-c"
+					},
+					{
+						"name": "Tech Docs",
+						"url": "https://tech-docs.domyland.dev/",
+						"icon": "ooui:logo-wikipedia"
+					},
+					{
+						"name": "Swagger",
+						"url": "https://sud-api.domyland.ru/swagger#/",
+						"icon": "simple-icons:swagger"
 					}
 				]
 			},
@@ -207,6 +222,11 @@
 					{
 						"name": "iOS",
 						"url": "https://www.figma.com/design/xEEAuqteORAoJsnfdJCIfr/iOS-App---%D0%94%D0%BE%D0%BC%D0%B8%D0%BB%D0%B5%D0%BD%D0%B4?t=9cS43oMrOo8K3y6v-0",
+						"icon": "solar:figma-line-duotone"
+					},
+					{
+						"name": "Android",
+						"url": "https://www.figma.com/design/xEEAuqteORAoJsnfdJCIfr/iOS-App---%D0%94%D0%BE%D0%BC%D0%B8%D0%BB%D0%B5%D0%BD%D0%B4?node-id=55248-147675&t=oWKzOVArPJNodbkT-4&fuid=1326559355050092968",
 						"icon": "solar:figma-line-duotone"
 					},
 					{
