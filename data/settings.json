@@ -169,18 +169,18 @@
 				"links": [
 					{
 						"name": "Screely",
-						"url": "https://screely.com/",
+						"url": "https://screely.com",
 						"icon": "tabler:letter-s"
 					},
 					{
-						"name": "Mastodon",
-						"url": "https://mastodon.social/",
-						"icon": "ri:mastodon-fill"
+						"name": "Cursorful",
+						"url": "https://cursorful.com",
+						"icon": "f7:cursor-rays"
 					},
 					{
-						"name": "Reddit",
-						"url": "https://reddit.com",
-						"icon": "mdi:reddit"
+						"name": "Подсчет символов",
+						"url": "https://involta.ru/tools/length-chars",
+						"icon": "mdi:counter"
 					},
 					{
 						"name": "Polywork",
