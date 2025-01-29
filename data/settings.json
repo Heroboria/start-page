@@ -109,7 +109,7 @@
 	"sections": {
 		"list": [
 			{
-				"title": "General",
+				"title": "Стенды",
 				"color": "green",
 				"align": "left",
 				"links": [
@@ -136,29 +136,29 @@
 				]
 			},
 			{
-				"title": "Dev",
+				"title": "Документация",
 				"color": "magenta",
 				"align": "left",
 				"links": [
 					{
-						"name": "GitHub",
-						"url": "https://github.com",
-						"icon": "mdi:github"
+						"name": "Help",
+						"url": "https://help.domyland.ru/",
+						"icon": "tabler:letter-h"
 					},
 					{
-						"name": "GitLab",
-						"url": "https://gitlab.com",
-						"icon": "ph:gitlab-logo-simple-fill"
+						"name": "Public API",
+						"url": "https://public-api.domyland.ru/",
+						"icon": "mdi:api"
 					},
 					{
-						"name": "Dev.to",
-						"url": "https://dev.to",
-						"icon": "material-symbols:logo-dev"
+						"name": "Platrum",
+						"url": "https://domyland.platrum.ru/wiki",
+						"icon": "tabler:letter-p"
 					},
 					{
-						"name": "Stack Overflow",
-						"url": "https://stackoverflow.com/",
-						"icon": "mdi:stack-overflow"
+						"name": "Club",
+						"url": "https://help.domyland.club",
+						"icon": "tabler:letter-c"
 					}
 				]
 			},
@@ -178,7 +178,7 @@
 						"icon": "mdi:counter"
 					},
 					{
-						"name": "Морфологический разбор",
+						"name": "Морфол. разбор",
 						"url": "https://rustxt.ru/morfologicheskij-razbor",
 						"icon": "si:barcode-duotone"
 					},
