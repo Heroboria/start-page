@@ -1,5 +1,5 @@
 {
-	"username": "Excalith",
+	"username": "Search",
 	"theme": {
 		"name": "Default",
 		"backgroundColor": "#121317",
@@ -61,18 +61,18 @@
 		]
 	},
 	"urlLaunch": {
-		"target": "_self",
+		"target": "_target",
 		"hoverColor": "magenta"
 	},
 	"search": {
-		"default": "https://google.com/search?q=",
-		"target": "_self",
+		"default": "https://ya.ru/search/?text=",
+		"target": "_target",
 		"shortcutRegex": "([A-Za-z0-9]+) (.*)",
 		"shortcuts": [
 			{
-				"alias": "g",
-				"name": "Google Search",
-				"url": "https://google.com/search?q={}"
+				"alias": "help",
+				"name": "Domyland Search",
+				"url": "https://help.domyland.ru/?search={}"
 			},
 			{
 				"alias": "d",
