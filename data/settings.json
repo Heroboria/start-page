@@ -161,18 +161,13 @@
 						"icon": "material-symbols-light:home-outline"
 					},
 					{
-						"name": "Стратегия",
-						"url": "https://crm-new-strat.domyland.dev/exploitation/dashboard/",
+						"name": "Ecom",
+						"url": "https://crm-new-ecom.domyland.dev/exploitation/dashboard",
 						"icon": "material-symbols-light:home-outline"
 					},
 					{
 						"name": "Самолет",
 						"url": "https://crm-new-smlt.domyland.dev/",
-						"icon": "material-symbols-light:home-outline"
-					},
-					{
-						"name": "Премиум",
-						"url": "https://crm-new-premium.domyland.dev/",
 						"icon": "material-symbols-light:home-outline"
 					}
 				]
