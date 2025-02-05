@@ -164,11 +164,6 @@
 						"name": "Ecom",
 						"url": "https://crm-new-ecom.domyland.dev/exploitation/dashboard",
 						"icon": "material-symbols-light:home-outline"
-					},
-					{
-						"name": "Самолет",
-						"url": "https://crm-new-smlt.domyland.dev/",
-						"icon": "material-symbols-light:home-outline"
 					}
 				]
 			},
